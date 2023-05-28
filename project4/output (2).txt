@@ -1,0 +1,32 @@
+The number of guards : 1
+1 
+------------
+The number of guards : 1
+0 1 0 
+------------
+The number of guards : 2
+1 0 0 1 0 
+------------
+The number of guards : 3
+0 0 
+1 1 
+0 0 
+1 0 
+------------
+The number of guards : 5
+0 1 0 
+0 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+0 1 0 
+------------
+The number of guards : 7
+0 1 0 0 
+0 0 0 1 
+1 0 0 0 
+0 0 1 0 
+1 0 0 0 
+0 0 0 1 
+0 1 0 0 
+------------
